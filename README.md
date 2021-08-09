@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Random Quote Generator
+
+Random quote generator with new background color for new quotes.
+
+[Live Demo](https://dmitriy24s.github.io/random-quote-generator/) :point_left:
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
