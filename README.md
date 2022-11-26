@@ -1,5 +1,7 @@
 # Random Quote Generator
 
+![Design preview for Random Quote Generator](./design-preview/design-preview.png)
+
 Random quote generator with new background color for new quotes.
 
 [Live Demo](https://dmitriy24s.github.io/random-quote-generator/) :point_left:
